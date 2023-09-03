@@ -1,4 +1,4 @@
 # Krish
 this is my first repository
 <br>
-Author - Krish Goyal
+Author - Krish (Hello)
